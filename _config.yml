@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Shu (Lisa) Liao"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Shu (Lisa) Liao"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,20 +22,20 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Shu (Lisa) Liao"
+  pronouns         : "She/her"  
+  bio              : "Computer Science PhD candidate"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Washington University in St.Louis"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lisa.liao@wustl.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=NQjw-mEAAAAJ&hl=en"
+  # impactstory      : # URL
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-7740-8096"
+  # pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
