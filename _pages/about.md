@@ -15,10 +15,10 @@ Education
 
 Publication
 ======
-* Acharya, **S., Liao**, S., Jung, W., Kang, E., Moghaddam, V.A., Feitosa, M., Wojczynski, M.K., Lin. S., Anema, J.A., Schwander, K., O’Connell, J., Province, M.A., Brent, M.R., Multi-omics Integration to Identify Genes Affecting Cardiovascular Diseases Related Traits. Submitted.
+* Sandeep Acharya, **Shu Liao**, Wooseok J. Jung, Yu S. Kang, Vaha A. Moghaddam, Mary Feitosa, Mary Wojczynski, Shiow Lin, Jason A. Anema, Karen Schwander, Jeff O Connell, Mike Province, Michael R. Brent (2024): Theoretical Study on Proton Diffusivity in Y-Doped BaZrO3 with Realistic Dopant Configurations. medRxiv 2024.03.04.24303657; doi: https://doi.org/10.1101/2024.03.04.24303657
 
 Posters
 ======
-* Acharya, **S., Liao**, S., Jung, W., Kang, E., Moghaddam, V.A., Feitosa, M., Wojczynski, M.K., Lin. S., Anema, J.A., Schwander, K., O’Connell, J., Province, M., Brent, M.R. (2023, November). Multi-omics Integration to Identify Genes Affecting Cardiovascular Diseases Related Traits. Poster presented at the Annual Conference of the American Society of Human Genetics (ASHG), Washington DC. 
+* S. Acharya, **S., Liao**, S., Jung, W., Kang, E., Moghaddam, V.A., Feitosa, M., Wojczynski, M.K., Lin. S., Anema, J.A., Schwander, K., O’Connell, J., Province, M., Brent, M.R. (2023, November). Multi-omics Integration to Identify Genes Affecting Cardiovascular Diseases Related Traits. Poster presented at the Annual Conference of the American Society of Human Genetics (ASHG), Washington DC. 
 
-* Acharya, **S., Liao**, S., Jung, W., Kang, E., Moghaddam, V.A., Feitosa, M., Wojczynski, M.K., Lin. S., Anema, J.A., Schwander, K., O’Connell, J., Province, M., Brent, M.R. (2023, November). Multi-omics Integration to Identify Genes Affecting Cardiovascular Diseases Related Traits. Poster presented at the Annual Scientific Meeting of the Gerontology Society of America (GSA), Tampa, FL.
+* S. Acharya, **S., Liao**, S., Jung, W., Kang, E., Moghaddam, V.A., Feitosa, M., Wojczynski, M.K., Lin. S., Anema, J.A., Schwander, K., O’Connell, J., Province, M., Brent, M.R. (2023, November). Multi-omics Integration to Identify Genes Affecting Cardiovascular Diseases Related Traits. Poster presented at the Annual Scientific Meeting of the Gerontology Society of America (GSA), Tampa, FL.
