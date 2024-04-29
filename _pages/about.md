@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Lisa, a third year computer science PhD candidate at Washington University in St.Louis. I am broadly interested in extracting insights from multi-omics data to understand the molecular mechanisms underlying various phenotypes. My current research interest focuses on building explainable models to predict complex traits in aging.
+Hello! I'm Lisa, a third year computer science PhD candidate at Washington University in St. Louis. I am broadly interested in extracting insights from multi-omics data to understand the molecular mechanisms underlying various phenotypes. My current research interest focuses on building explainable models to predict complex traits in aging.
 
 Education
 ======
-* B.S. in Computer Science, Washington University in St.Louis, 2021
+* B.S. in Computer Science, Washington University in St. Louis, 2021
 
 Publication
 ======
