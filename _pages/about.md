@@ -15,7 +15,7 @@ Education
 
 Publication
 ======
-* Sandeep Acharya, **Shu Liao**, Wooseok J. Jung, Yu S. Kang, Vaha A. Moghaddam, Mary Feitosa, Mary Wojczynski, Shiow Lin, Jason A. Anema, Karen Schwander, Jeff O Connell, Mike Province, Michael R. Brent (2024): Theoretical Study on Proton Diffusivity in Y-Doped BaZrO3 with Realistic Dopant Configurations. medRxiv 2024.03.04.24303657; doi: [https://doi.org/10.1101/2024.03.04.24303657](https://doi.org/10.1101/2024.03.04.24303657)
+* Sandeep Acharya, **Shu Liao**, Wooseok J. Jung, Yu S. Kang, Vaha A. Moghaddam, Mary Feitosa, Mary Wojczynski, Shiow Lin, Jason A. Anema, Karen Schwander, Jeff O Connell, Mike Province, Michael R. Brent (2024): Multi-omics Integration Identifies Genes Influencing Traits Associated with Cardiovascular Risks: The Long Life Family Study. medRxiv 2024.03.04.24303657; doi: [https://doi.org/10.1101/2024.03.04.24303657](https://doi.org/10.1101/2024.03.04.24303657)
 
 Posters
 ======
