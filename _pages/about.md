@@ -11,9 +11,17 @@ Hello! I'm Lisa, a third year computer science PhD candidate at Washington Unive
 
 Education
 ======
+* B.S. in Computer Science, Washington University in St.Louis, 2021
 
 Publication
 ======
+* Acharya, **S., Liao**, S., Jung, W., Kang, E., Moghaddam, V.A., Feitosa, M., Wojczynski, M.K., Lin. S., Anema, J.A., Schwander, K., O’Connell, J., Province, M.A., Brent, M.R., Multi-omics Integration to Identify Genes Affecting Cardiovascular Diseases Related Traits. Submitted.
+
+Posters
+======
+* Acharya, **S., Liao**, S., Jung, W., Kang, E., Moghaddam, V.A., Feitosa, M., Wojczynski, M.K., Lin. S., Anema, J.A., Schwander, K., O’Connell, J., Province, M., Brent, M.R. (2023, November). Multi-omics Integration to Identify Genes Affecting Cardiovascular Diseases Related Traits. Poster presented at the Annual Conference of the American Society of Human Genetics (ASHG), Washington DC. 
+
+* Acharya, **S., Liao**, S., Jung, W., Kang, E., Moghaddam, V.A., Feitosa, M., Wojczynski, M.K., Lin. S., Anema, J.A., Schwander, K., O’Connell, J., Province, M., Brent, M.R. (2023, November). Multi-omics Integration to Identify Genes Affecting Cardiovascular Diseases Related Traits. Poster presented at the Annual Scientific Meeting of the Gerontology Society of America (GSA), Tampa, FL.
 <!-- 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
