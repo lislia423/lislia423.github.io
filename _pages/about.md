@@ -15,7 +15,7 @@ Education
 
 Preprint
 ======
-* Acharya S, **Liao S**, Jung WJ, Kang YS, Moghaddam VA, Feitosa M, Wojczynski M, Lin S, Anema JA, Schwander K, Connell JO, Province M, Brent MR. Multi-omics Integration Identifies Genes Influencing Traits Associated with Cardiovascular Risks: The Long Life Family Study. medRxiv. 2024:2024.03.04.24303657. [https://doi.org/10.1101/2024.03.04.24303657](doi.org/10.1101/2024.03.04.24303657) (Submitted)
+* Acharya S, **Liao S**, Jung WJ, Kang YS, Moghaddam VA, Feitosa M, Wojczynski M, Lin S, Anema JA, Schwander K, Connell JO, Province M, Brent MR. Multi-omics Integration Identifies Genes Influencing Traits Associated with Cardiovascular Risks: The Long Life Family Study. medRxiv. 2024:2024.03.04.24303657. [doi.org/10.1101/2024.03.04.24303657](https://doi.org/10.1101/2024.03.04.24303657) (Submitted)
 
 Posters
 ======
@@ -25,3 +25,5 @@ Posters
 
 CV
 ======
+
+You can download my CV [here](https://lislia423.github.io/files/CV-SP2024.pdf)
