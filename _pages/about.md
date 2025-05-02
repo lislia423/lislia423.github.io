@@ -25,7 +25,7 @@ Preprints
 
 Posters
 ======
-* Acharya, S., Liao, S., Jung, W., Kang, E., Moghaddam, V.A., Feitosa, M., Wojczynski, M.K., Lin. S., Anema, J.A., Schwander, K., O’Connell, J., Province, M., Brent, M.R. Multi-omics Integration to Identify Genes Affecting Cardiovascular Diseases Related Traits. Poster presented at
+* Acharya, S., **Liao, S.**, Jung, W., Kang, E., Moghaddam, V.A., Feitosa, M., Wojczynski, M.K., Lin. S., Anema, J.A., Schwander, K., O’Connell, J., Province, M., Brent, M.R. Multi-omics Integration to Identify Genes Affecting Cardiovascular Diseases Related Traits. Poster presented at
     - Annual Conference of the American Society of Human Genetics (ASHG), Washington DC. (2023, November)
     - Annual Scientific Meeting of the Gerontology Society of America (GSA), Tampa, FL. (2023, November)
     - Annual Meeting of the International Genetic Epidemiology Society (IGES), Denver, CO. (2024, November)
