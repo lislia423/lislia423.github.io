@@ -19,7 +19,7 @@ Publications
 
 Preprints
 ======
-* Acharya, S., Moghaddam, V. A., Jung, W. J., Kang, Y. S., Liao, S., Province, M. A., & Brent, M. R. (2025). Fishnet: A network-based tool for analyzing gene-level p-values to identify significant genes missed by standard methods. bioRxiv. https://doi.org/10.1101/2025.01.29.635546. **(Submitted)**
+* Acharya, S., Moghaddam, V. A., Jung, W. J., Kang, Y. S., **Liao, S.**, Province, M. A., & Brent, M. R. (2025). Fishnet: A network-based tool for analyzing gene-level p-values to identify significant genes missed by standard methods. bioRxiv. https://doi.org/10.1101/2025.01.29.635546. **(Submitted)**
 
 * Moghaddam, V. A., Acharya, S., Schwaiger-Haber, M., **Liao, S.**, Jung, W. J., Thyagarajan, B., Shriver, L. P., Daw, E. W., Saccone, N. L., An, P., Brent, M. R., Patti, G. J., & Province, M. A. (2025). Construction of multi-modal transcriptome-small molecule interaction networks from high-throughput measurements to study human complex traits. bioRxiv. https://doi.org/10.1101/2025.01.22.634403. **(Submitted)**
 
